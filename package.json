@@ -1,0 +1,30 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "jakob garricks",
+  "license": "ISC",
+  "dependencies": {
+    "all": "0.0.0",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "fs": "0.0.1-security",
+    "hbs": "^4.0.1",
+    "php": "0.0.1",
+    "request": "^2.85.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jakob-G/Java_part1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Jakob-G/Java_part1/issues"
+  },
+  "homepage": "https://github.com/Jakob-G/Java_part1#readme",
+  "description": ""
+}
